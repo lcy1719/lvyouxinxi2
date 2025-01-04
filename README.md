@@ -1,10 +1,4 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-> 
-> **源码图片效果在下面，滑动滑轮观看效果！！！！**
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/13ae3016-6c30-4b36-84f8-6170eabc6c87)
 
-> **大家点赞、收藏、关注、评论区留言、点我主页或者私聊我获取代码**
 
 ## 【功能介绍】
 1.前台：旅游线路查询、添加旅游线路到购物车、购买旅游线路、最新路线查询、旅游资讯、客服、个人中心中、我的订单、我的收藏、我的地址
@@ -16,6 +10,9 @@
 ②：系统环境：Windows
 ③：开发环境：IDEA、JDK1.8、Maven、Mysql
 ④：技术栈：Java、Mysql、SpringBoot、Mybatis、Vue、
+> **代码+数据库+有的送报告文档具体扫码询问=4.9元；提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/068c075a-2a12-4068-8f35-029227da3394)
 ![image](https://github.com/user-attachments/assets/5adcc6ac-fa06-4bb1-be11-386c2a0fc880)
 ![image](https://github.com/user-attachments/assets/e2e0f3d3-f303-412b-8b53-797400d2d5f5)
